@@ -1,0 +1,17 @@
+<Urlset>
+	<url>
+		<loc>https://courses.calhoun.io/courses/cor_gophercises</loc>
+	</url>
+	<url>
+		<loc>https://courses.calhoun.io/signup?</loc>
+	</url>
+	<url>
+		<loc>https://courses.calhoun.io/signup?</loc>
+	</url>
+	<url>
+		<loc>https://courses.calhoun.io/reset-pw?</loc>
+	</url>
+	<url>
+		<loc>https://courses.calhoun.io/signup?</loc>
+	</url>
+</Urlset>

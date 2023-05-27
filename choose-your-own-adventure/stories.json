@@ -1,0 +1,45 @@
+{
+    "story-arc": {
+        "title": "A title for that story arc. Think of it like a chapter title.",
+        "story": [
+            "A series of paragraphs, each represented as a string in a slice.",
+            "This is a new paragraph in this particular story arc."
+        ],
+        "options": [
+            {
+                "text": "the text to render for this option. eg 'venture down the dark passage'",
+                "arc": "story-arc2"
+            }
+        ]
+    },
+    "story-arc2": {
+        "title": "A title2 for that story arc. Think of it like a chapter title.",
+        "story": [
+            "A second series of paragraphs, each represented as a string in a slice.",
+            "This is a new paragraph in this particular story arc."
+        ],
+        "options": [
+            {
+                "text": "the text33 to render for this option. eg 'venture down the dark passage'",
+                "arc": "story-arc3"
+            }
+        ]
+    },
+    "story-arc3": {
+        "title": "A title2 for that story arc. Think of it like a chapter title.",
+        "story": [
+            "A second series of paragraphs, each represented as a string in a slice.",
+            "This is a new paragraph in this particular story arc."
+        ],
+        "options": [
+            {
+                "text": "the text to render for this option. eg 'venture down the dark passage'",
+                "arc": "story-arc"
+            },
+            {
+                "text": "the text2 to render for this option. eg 'venture down the dark passage'",
+                "arc": "story-arc2"
+            }
+        ]
+    }
+}
